@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="1200" viewBox="0 0 1200 1200">
+<rect width="1200" height="1200" fill="#eef3f8"/>
+<rect x="70" y="70" width="1060" height="1060" rx="40" fill="#ffffff" stroke="#d9e3ee" stroke-width="3"/>
+<text x="120" y="190" font-family="PingFang SC,system-ui,sans-serif" font-size="26" letter-spacing="6" fill="#4f6b91" font-weight="700">OVERLAY LEDGER · 画面遮挡对账</text>
+<text x="120" y="310" font-family="PingFang SC,system-ui,sans-serif" font-size="82" font-weight="800" fill="#22344e">遮挡对账台</text>
+<text x="120" y="390" font-family="PingFang SC,system-ui,sans-serif" font-size="34" fill="#5a6d84">贴片占了多大画面，挡住了什么？</text>
+<!-- 画面示意图 -->
+<rect x="120" y="460" width="960" height="480" fill="#f8fbff" stroke="#c9d7e6" stroke-width="3"/>
+<rect x="216" y="860" width="768" height="64" fill="#6d9ac944" stroke="#6d9ac9" stroke-width="3"/>
+<text x="226" y="902" font-family="PingFang SC,system-ui,sans-serif" font-size="22" fill="#2a4668">字幕带</text>
+<rect x="158" y="488" width="115" height="48" fill="#77ab9244" stroke="#77ab92" stroke-width="3"/>
+<text x="166" y="520" font-family="PingFang SC,system-ui,sans-serif" font-size="20" fill="#2a4668">台标</text>
+<rect x="504" y="532" width="230" height="249" fill="#c2936a44" stroke="#c2936a" stroke-width="3"/>
+<text x="514" y="568" font-family="PingFang SC,system-ui,sans-serif" font-size="22" fill="#2a4668">人物框</text>
+<rect x="312" y="830" width="288" height="125" fill="#d9795c55" stroke="#c25a3d" stroke-width="4" stroke-dasharray="10 6"/>
+<text x="322" y="875" font-family="PingFang SC,system-ui,sans-serif" font-size="22" fill="#9c4227">贴片广告</text>
+<rect x="120" y="916" width="960" height="24" fill="#d9795c44" stroke="#c25a3d" stroke-width="3"/>
+<rect x="158" y="488" width="115" height="48" fill="#d9795c55" stroke="#c25a3d" stroke-width="3" stroke-dasharray="8 5"/>
+<rect x="504" y="532" width="230" height="249" fill="#d9795c44" stroke="#c25a3d" stroke-width="4" stroke-dasharray="10 6"/>
+<!-- 时间轴 -->
+<text x="120" y="1000" font-family="PingFang SC,system-ui,sans-serif" font-size="24" fill="#5a6d84">0 秒 → 60 秒　绿：无遮挡　橙：至少一处被挡</text>
+<rect x="120" y="1020" width="80" height="26" fill="#6aa58a"/><rect x="200" y="1020" width="400" height="26" fill="#d98a70"/>
+<rect x="600" y="1020" width="160" height="26" fill="#6aa58a"/><rect x="760" y="1020" width="240" height="26" fill="#d98a70"/><rect x="1000" y="1020" width="80" height="26" fill="#6aa58a"/>
+<text x="120" y="1100" font-family="PingFang SC,system-ui,sans-serif" font-size="26" fill="#a23b28" font-weight="700">峰值占比 · 被挡时长 · 精确最小移位</text>
+</svg>
